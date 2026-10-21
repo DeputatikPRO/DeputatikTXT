@@ -1,0 +1,6 @@
+{
+  "name": "DeputatikTXT",
+  "description": "Минималистичный текстовый редактор для работы с .txt файлами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
